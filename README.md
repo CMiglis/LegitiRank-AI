@@ -108,3 +108,10 @@ This file should continue to evolve around the following principles:
 - [ ] Integrate real scoring logic
 - [ ] Improve toggle UX with real-time refresh
 - [ ] Package for Chrome Web Store
+
+## 🤖 AI Assistance
+
+Parts of this project were developed with the help of [ChatGPT](https://openai.com/chatgpt), an AI language model created by OpenAI. ChatGPT assisted with code suggestions, documentation structuring, testing setup, and project organization.
+
+All decisions, implementations, and customizations were made by Cory Miglis as part of an effort to learn, grow, and deliver an original software development project with integrity.
+
