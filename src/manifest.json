@@ -4,6 +4,14 @@
   "description": "Subtly overlays trust indicators on search results.",
   "version": "0.1",
   "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
   "content_scripts": [
     {
       "matches": ["*://www.google.com/search*"],
