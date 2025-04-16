@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "LegitiRank-AI",
+  "description": "Subtly overlays trust indicators on search results.",
+  "version": "0.1",
+  "permissions": ["activeTab", "scripting"],
+  "content_scripts": [
+    {
+      "matches": ["*://www.google.com/search*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
