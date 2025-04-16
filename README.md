@@ -1,5 +1,5 @@
 # LegitiRank-AI
-## Website rank legitimacy checker
+Website rank legitimacy checker
 
 I am starting this project to combat the growing misuse and manipulation of SEO (Search Engine Optimization).
 
